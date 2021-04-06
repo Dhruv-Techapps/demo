@@ -1,7 +1,3 @@
 # Demo Project README
 
-This is a simple read me file
-
-This is second line  	
-
-third line
+This is bound to cause trouble
